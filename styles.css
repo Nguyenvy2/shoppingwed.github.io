@@ -1,0 +1,207 @@
+body{
+    background-color: pink;
+    height: auto;
+
+}
+
+    
+
+.td1{
+    width: 200px;
+    height:100px;
+    margin: 10px 0px 0px 20px; 
+}
+.line1{
+    display: flex;
+}
+.menu{
+    display: flex;
+    list-style-type: none;
+    margin-left: 5cm;
+}
+li{
+    padding: 0 20px;
+}
+.content6{
+    margin-left: 3cm;
+    border: 3px solid black;
+    border-bottom-right-radius: 3cm;
+    border-top-left-radius: 3cm;
+    background-color: red;
+    color: white;
+  
+}
+.content6:hover{
+    color:aqua;
+}
+.content:hover{
+    color: aqua;
+
+}
+.line2{
+    border: 1px solid black;
+    background-color: black;
+}
+.SP{
+    text-align: center;
+    font-family:Tahoma;  
+    color: red; 
+    
+}
+.big1{
+    width: 400px;
+    height: 400px;
+    
+}
+.big2{
+    width: 400px;
+    height: 400px;
+   
+
+}
+.big3{
+    width: 400px;
+    height: 400px;
+ 
+
+}
+.big4{
+    width: 400px;
+    height: 400px;
+    
+  
+
+}
+.big5{
+    width: 400px;
+    height: 400px;
+    
+   
+}
+.gia{
+    width: 400px;
+    border: 4px solid black;
+    border-radius: 10px;
+    margin-right: 0.5cm;
+    
+ 
+
+}
+.ANHAO{
+    display: flex;
+    padding: 10px 100px;
+    
+
+   
+}
+.anhao{
+    display: flex;
+
+   margin-left: 8cm;
+   margin-top: 1cm;
+
+}
+.CA {
+    text-align: center;
+    text-decoration: underline;
+}
+.CB{
+  margin: 0 auto;
+    border: 1px solid black;
+    background-color: red;
+    width: 100px;
+    height: 30px;
+    padding: 10px 0 0 25px;
+    border-bottom-right-radius: 2cm;
+    border-top-left-radius: 2cm;
+    margin-bottom: 0.2cm;
+    color: white;
+
+}
+.CB:hover{
+    color: black;
+    background-color: aqua;
+}
+.gia:hover{
+    transform: scale(1.1);
+}
+.end{
+    
+    border: 5px solid red;
+    margin-top: 0.5cm;
+    background-color: red;
+ 
+
+}
+.end  ul.list {
+   
+    display: flex;
+   margin-top: -0.1cm;
+    color:white;
+    font-size: 20px;
+    
+    list-style-type: none;
+    margin-left: 15%;
+    
+}
+.list li{
+    text-align: center;
+}
+.end ul li a{
+    padding: 0 50px;
+   margin: 0 auto;
+
+}
+.end div.icon{
+   margin-top: 0.5cm;
+    font-size: 30px;
+    text-align: center;
+   
+}
+.content:hover{
+    transform: scale(1.2);
+}
+.content6:hover{
+    transform: scale(1.3);
+}
+.end div.icon i:hover{
+    color: white;
+    transform: scale(1.1);
+
+}
+.end ul.list li h3:hover{
+   color: aqua;
+    transform: scale(1.1);
+}
+.drop-content:hover{
+    display: none;
+}
+
+
+
+.drop-content{
+    
+    display: none;
+    background-color: rgb(199, 156, 163);
+   
+    
+}
+.content:hover .drop-content{
+    display: block;
+    position: fixed;
+}
+.content{
+    display: inline-block;
+}
+.drop-content div:hover{
+    display: block;
+}
+.drop-content div{
+    font-size: 20px;
+}
+.drop-content div:hover{
+    
+    color: rgb(255, 0, 0);
+}
+
+
